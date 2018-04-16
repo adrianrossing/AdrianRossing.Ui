@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdrianRossing.Ui.Models", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdrianRossing.Ui.Controllers", "src\AdrianRossing.Ui.Controllers\AdrianRossing.Ui.Controllers\AdrianRossing.Ui.Controllers.csproj", "{7F0A7DAF-BDE9-453B-B6D5-512C060BB0F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdrianRossing.Ui.Scripts", "src\AdrianRossing.Ui.Scripts\AdrianRossing.Ui.Scripts.csproj", "{BB146E42-50FB-4EA8-BAB0-9332ED49CBC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,10 @@ Global
 		{7F0A7DAF-BDE9-453B-B6D5-512C060BB0F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F0A7DAF-BDE9-453B-B6D5-512C060BB0F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F0A7DAF-BDE9-453B-B6D5-512C060BB0F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB146E42-50FB-4EA8-BAB0-9332ED49CBC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB146E42-50FB-4EA8-BAB0-9332ED49CBC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB146E42-50FB-4EA8-BAB0-9332ED49CBC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB146E42-50FB-4EA8-BAB0-9332ED49CBC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{0F3A896C-86A4-4F68-BB48-7EC7E6EF0492} = {4EFCADA3-3CFC-4378-AE6C-0D0B09D7F9CD}
@@ -48,5 +54,6 @@ Global
 		{B466EEFD-0B36-41E9-88FF-A8AF5CA5A178} = {4EFCADA3-3CFC-4378-AE6C-0D0B09D7F9CD}
 		{D5A9A48C-A0C7-4CEB-95B2-01BBC3F29089} = {4EFCADA3-3CFC-4378-AE6C-0D0B09D7F9CD}
 		{7F0A7DAF-BDE9-453B-B6D5-512C060BB0F5} = {4EFCADA3-3CFC-4378-AE6C-0D0B09D7F9CD}
+		{BB146E42-50FB-4EA8-BAB0-9332ED49CBC1} = {4EFCADA3-3CFC-4378-AE6C-0D0B09D7F9CD}
 	EndGlobalSection
 EndGlobal
