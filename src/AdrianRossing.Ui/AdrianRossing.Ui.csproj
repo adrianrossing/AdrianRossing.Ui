@@ -19,5 +19,8 @@
   <ItemGroup>
     <Folder Include="Views\" />
     <Folder Include="Views\Home\" />
+    <Folder Include="Views\Blog\" />
+    <Folder Include="Views\Articles\" />
+    <Folder Include="Views\Admin\" />
   </ItemGroup>
 </Project>
