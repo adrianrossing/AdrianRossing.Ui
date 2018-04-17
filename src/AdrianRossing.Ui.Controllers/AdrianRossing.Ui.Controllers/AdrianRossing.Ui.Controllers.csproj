@@ -8,5 +8,10 @@
     </ItemGroup>
     <ItemGroup>
         <ProjectReference Include="..\..\AdrianRossing.Ui.Models\AdrianRossing.Ui.Models\AdrianRossing.Ui.Models.csproj" />
+        <ProjectReference Include="..\..\AdrianRossing.Ui.Repositories\AdrianRossing.Ui.Repositories\AdrianRossing.Ui.Repositories.csproj" />
+    </ItemGroup>
+    <ItemGroup>
+      <Folder Include="Articles\" />
+      <Folder Include="Articles\" />
     </ItemGroup>
 </Project>

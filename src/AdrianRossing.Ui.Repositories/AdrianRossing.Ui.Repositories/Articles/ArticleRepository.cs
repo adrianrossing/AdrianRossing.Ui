@@ -1,7 +1,7 @@
 ﻿using AdrianRossing.Ui.Models.Articles;
 using Microsoft.EntityFrameworkCore;
 
-namespace MvcMovie.Models
+namespace AdrianRossing.Ui.Repositories
 {
     public class ArticleRepository : DbContext
     {
@@ -10,6 +10,6 @@ namespace MvcMovie.Models
         {
         }
 
-        public DbSet<Article> Articles { get; set; }
+        public DbSet<Article> Article { get; set; }
     }
 }

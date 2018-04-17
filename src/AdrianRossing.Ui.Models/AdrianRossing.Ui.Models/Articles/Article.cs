@@ -12,7 +12,7 @@ namespace AdrianRossing.Ui.Models.Articles
         public bool Published { get; set; }
         public DateTime CreatedDateTime { get; set; }
         public DateTime? UpdatedDateTime { get; set; }
-        public Uri ArticleUri { get; set; }
+        public string ArticleUri { get; set; }
         public Category Category { get; set; }
         public IEnumerable<Tag> Tags { get; set; }
     }
